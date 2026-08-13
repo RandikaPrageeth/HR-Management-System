@@ -38,7 +38,8 @@ Edit Employee Window
 
 
 
-<img width="317" height="447" alt="Screenshot 2026-08-13 131950" src="https://github.com/user-attachments/assets/018d662c-58da-4533-9ec7-8aab22b8fe5e" />
+<img width="311" height="442" alt="Screenshot 2026-08-13 212702" src="https://github.com/user-attachments/assets/b5df82c3-2408-432d-8509-be01cc1921fb" />
+
 
 
 
