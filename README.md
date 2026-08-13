@@ -49,7 +49,9 @@ Add Department
 
 
 
-<img width="293" height="269" alt="Screenshot 2026-08-13 132016" src="https://github.com/user-attachments/assets/e881531a-bbc1-4ea0-a5b2-ea895b4482be" />
+<img width="284" height="260" alt="Screenshot 2026-08-13 212339" src="https://github.com/user-attachments/assets/f7e31912-178a-4521-b80f-55e42bbab7d1" />
+
+
 
 
 
@@ -61,8 +63,8 @@ Add Roles
 
 
 
+<img width="283" height="259" alt="Screenshot 2026-08-13 212358" src="https://github.com/user-attachments/assets/d19b1541-29f0-464c-8232-9c265d1b5b8f" />
 
-<img width="303" height="290" alt="Screenshot 2026-08-13 132044" src="https://github.com/user-attachments/assets/1a9490de-d88f-4fb3-bd9c-31c5648b5d0f" />
 
 
 
