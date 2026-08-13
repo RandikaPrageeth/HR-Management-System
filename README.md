@@ -1,4 +1,3 @@
-# HR-Management-System
 HR Management System :- This is my python project for the Advanced Python Certification Course in SLIPD Academy
 
 
@@ -33,9 +32,35 @@ Add Employee Window
 
 
 
+
 Edit Employee Window
 
 
 
 
 <img width="317" height="447" alt="Screenshot 2026-08-13 131950" src="https://github.com/user-attachments/assets/018d662c-58da-4533-9ec7-8aab22b8fe5e" />
+
+
+
+
+Add Department
+
+
+
+
+<img width="293" height="269" alt="Screenshot 2026-08-13 132016" src="https://github.com/user-attachments/assets/e881531a-bbc1-4ea0-a5b2-ea895b4482be" />
+
+
+
+
+
+Add Roles
+
+
+
+
+
+<img width="287" height="262" alt="Screenshot 2026-08-13 132032" src="https://github.com/user-attachments/assets/0b652018-06da-4927-8b9b-2e6ba7b4b910" />
+
+
+
