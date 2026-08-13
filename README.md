@@ -15,3 +15,19 @@ Main Navigation Window
 
 <img width="959" height="503" alt="Screenshot 2026-08-13 131821" src="https://github.com/user-attachments/assets/44e73935-4be1-456f-bd1e-9cebaa9ad43b" />
 
+
+
+
+Employee Dierectory
+
+<img width="948" height="497" alt="Screenshot 2026-08-13 131902" src="https://github.com/user-attachments/assets/db39b3c0-d852-4ef4-b4f0-c91a4150719e" />
+
+
+Add Employee Window
+
+
+
+<img width="313" height="440" alt="Screenshot 2026-08-13 131926" src="https://github.com/user-attachments/assets/6b65401c-fd6d-4021-9a4f-7ffe955284c1" />
+
+
+
