@@ -27,7 +27,15 @@ Add Employee Window
 
 
 
+
+
 <img width="313" height="440" alt="Screenshot 2026-08-13 131926" src="https://github.com/user-attachments/assets/6b65401c-fd6d-4021-9a4f-7ffe955284c1" />
 
 
 
+Edit Employee Window
+
+
+
+
+<img width="317" height="447" alt="Screenshot 2026-08-13 131950" src="https://github.com/user-attachments/assets/018d662c-58da-4533-9ec7-8aab22b8fe5e" />
