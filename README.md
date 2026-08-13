@@ -79,3 +79,11 @@ Search Window
 
 
 <img width="605" height="424" alt="Screenshot 2026-08-13 132059" src="https://github.com/user-attachments/assets/491a80dd-397f-4c40-9be4-25146b9d069e" />
+
+
+
+
+Technology Stack
+GUI / Frontend: Python Tkinter,
+Database: MySQL 
+
