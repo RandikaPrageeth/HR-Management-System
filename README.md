@@ -13,4 +13,5 @@ Main Navigation Window
 
 
 
-![Uploading Screenshot 2026-08-13 131821.png…]()
+<img width="959" height="503" alt="Screenshot 2026-08-13 131821" src="https://github.com/user-attachments/assets/44e73935-4be1-456f-bd1e-9cebaa9ad43b" />
+
