@@ -72,7 +72,8 @@ Add Roles
 User Creation
 
 
-<img width="287" height="262" alt="Screenshot 2026-08-13 132032" src="https://github.com/user-attachments/assets/0b652018-06da-4927-8b9b-2e6ba7b4b910" />
+
+<img width="298" height="284" alt="Screenshot 2026-08-13 212416" src="https://github.com/user-attachments/assets/03584808-8d23-4a8e-b90a-a41a5173aee0" />
 
 
 
@@ -81,12 +82,15 @@ Search Window
 
 
 
-<img width="605" height="424" alt="Screenshot 2026-08-13 132059" src="https://github.com/user-attachments/assets/491a80dd-397f-4c40-9be4-25146b9d069e" />
+<img width="599" height="419" alt="Screenshot 2026-08-13 212428" src="https://github.com/user-attachments/assets/3e3b185a-43d7-45c4-9ce1-b638c3542f2f" />
+
 
 
 
 
 Technology Stack
-GUI / Frontend: Python Tkinter,
+GUI / Frontend: Python Tkinter
 Database: MySQL 
+CSV,hashlib
+matplotlib
 
