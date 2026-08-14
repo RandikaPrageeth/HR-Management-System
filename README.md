@@ -1,5 +1,5 @@
-# HRMS
-HR Managment System
+# HRMS 
+Employee Management System built to streamline the onboarding process by allowing users to add, validate, and store new employee records.
 
 
 Login Window
@@ -43,6 +43,8 @@ Add Role Window
 Add User Window
 
 <img width="298" height="284" alt="Screenshot 2026-08-13 212416" src="https://github.com/user-attachments/assets/83d05239-1c9f-4224-8129-d2afe9752c5a" />
+
+
 
 
 
