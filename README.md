@@ -46,5 +46,9 @@ Add User Window
 
 
 
+Search Window
+
+
+<img width="599" height="419" alt="Screenshot 2026-08-13 212428" src="https://github.com/user-attachments/assets/6b6d8a55-d148-4f8a-9073-66fc310f4952" />
 
 
