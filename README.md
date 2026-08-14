@@ -1,5 +1,5 @@
 # HRMS 
-Employee Management System built to streamline the onboarding process by allowing users to add, validate, and store new employee records.
+The Employee Management System is a lightweight application designed to simplify adding and storing new employee information. It provides an intuitive interface to quickly register staff details and keep employee records organized in a centralized system.
 
 
 Login Window
