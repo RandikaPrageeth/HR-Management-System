@@ -54,3 +54,13 @@ Search Window
 <img width="599" height="419" alt="Screenshot 2026-08-13 212428" src="https://github.com/user-attachments/assets/6b6d8a55-d148-4f8a-9073-66fc310f4952" />
 
 
+
+
+Key Features
+
+
+Employee Registration: Easily add new employee profiles with required details (e.g., name, contact details, role, department).
+
+Data Validation: Ensures input accuracy before saving records to the system.
+
+Clean Interface: User-friendly forms for quick and efficient data entry.
